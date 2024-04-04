@@ -1,0 +1,1 @@
+•	Class project in Python course centred on Spotify data analysis. Utilizing Pandas and other libraries in Python, working in a team we developed a tool to extract and process user data, producing insightful reports so Spotify users can make the better decision to play a song regarding to trends, genre, popularity and others.
